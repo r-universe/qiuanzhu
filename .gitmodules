@@ -5,6 +5,3 @@
 [submodule "remss"]
 	path = remss
 	url = https://github.com/cran/remss
-[submodule "xlink"]
-	path = xlink
-	url = https://github.com/qiuanzhu/xlink
